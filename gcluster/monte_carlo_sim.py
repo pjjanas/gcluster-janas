@@ -2,9 +2,7 @@
 """
 Created on Wed Jul  6 15:36:15 2022
 
-@author: Pawel Janas (Python 3.8)
-
-Student Number: 19318421
+@author: Pawel Janas (Python 3.10.5)
 
 Description: Monte Carlo simulations for Clustered Patterns
 """
