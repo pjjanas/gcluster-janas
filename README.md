@@ -1,4 +1,4 @@
-# gcluster-janas
+# janas-gcluster
 Repository for a university based project on galaxy clustering for which the code was developed by Pawel Janas with the help of Prof. Peter Coles at Maynooth University, Ireland 2022.
 
 # Introduction
