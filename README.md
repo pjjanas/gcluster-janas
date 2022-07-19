@@ -1,5 +1,5 @@
 # gcluster-janas
-Repository for a university based project on galaxy clustering for which the code was developed by Pawel Janas with the help of Professor Coles at Maynooth University, Ireland 2022.
+Repository for a university based project on galaxy clustering for which the code was developed by Pawel Janas with the help of Prof. Peter Coles at Maynooth University, Ireland 2022.
 
 # Introduction
 Welcome to `janas-gcluster`! The programs found in this repositary simulate galaxy distributions in a simple cubic geometry and run specific analysis algorithms on them such as the two-point correlation function. I created this repository as a placeholder for my project based code/files for a project I completed with Maynooth University as part of their SPUR program. In this README document, I will outline the basics of using my code, specific function/variable names and ways to improve my code for future use.
