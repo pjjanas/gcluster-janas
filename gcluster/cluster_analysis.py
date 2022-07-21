@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # append path to get specific module
-sys.path.append("C:\\Users\\pjjan\\OneDrive\\Documents\\Python\\SPUR")
+sys.path.append("Import path to funcs.py here")
 
 from funcs import file_read, newInput, get_coords, get_thinned, cluster_dist3D, \
     distances_to_each, xi_r_calc_alt, xi_r_plot
